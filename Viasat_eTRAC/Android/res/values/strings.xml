@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ViaSatActivity!</string>
+    <string name="app_name_me">eTRAC</string>
+    <string name="app_name">eTRAC Application</string>
+    <string name="dots">....</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="dialog_title">eTRAC Alert</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ver">Ver. %1$s</string>
+    <string name="instruct_msg">Please accept the Terms of Service to proceed further</string>
+    
+    <string name="internet_check">Checking for internet Connection...</string>
+    
+    <string name="internet_error1">A Connection to the Server could not be established</string>
+    <string name="internet_error2">Please connect to the internet to the onboard WIFI network</string>
+    <string name="internet_error3">Device is not connected to WiFi Router. Do you want to enable WIFI?</string>
+    <string name="internet_error4">Internet connection is not available</string>
+    <string name="tryagain">Try Again</string>
+    <string name="error">Error</string>
+    
+    <string name="registration">Register Flight</string>
+    <string name="email">Email</string>
+    <string name="flight_id">Flight Id</string>
+    <string name="provider_name">Provider Name</string>
+    <string name="service_details">Service Details</string>
+    <string name="user_comments">User Comments</string>
+    <string name="submit">Submit</string>
+    <string name="clear_all">Clear All</string>
+    <string name="enter_email">please enter email</string>
+    <string name="enter_flightid">please enter flight id</string>
+    <string name="enter_comments">please enter comments</string>
+    <string name="select_provider">Select Provider</string>
+    <string name="select_service">Select Service</string>
+    <string name="fill_all">Please fill all the fields.</string>
+    <string name="valid_email">Please enter valid email.</string>
+    <string name="valid_flightid">Please enter valid Flight Id.</string>
+    <string name="reg_succ">registered successfully.</string>
+    <string name="desc">desc</string>
+    <string name="etracktext">On-board Internet service monitor tool </string>
+    <string name="powerby">Powered By: ViaSat</string>
+    
+    <string name="testmenu">eTRAC Test</string>
+    <string name="router_title">Router Information</string>
+    <string name="bCount_title">Byte Count Information</string>
+    <string name="labelDL">DL speed (Mbps)</string>
+     <string name="sendByteCount">Send Byte Count</string>
+    
+    <string name="testResult">eTRAC Test Result</string>
+    <string name="testFeature">Test Feature</string>
+    <string name="others">Others</string>
+    <string name="resultsDB">Results Database</string>
+    <string name="labelUL">UL speed (Mbps)</string>
+    <string name="labelLat">Latency (ms)</string>
+    <string name="labelJitter">Jitter (ms)</string>
+    <string name="labelWP">Webpage average \nload time (sec)</string>
+    <string name="labelVP">Video initial \nbuffer time (ms)</string>
+    <string name="labelBW">Bandwidth</string>
+    
+    <string name="begin">Begin</string>
+    <string name="throughtput">Throughput Test</string>
+    <string name="runTest">Run Test</string>
+    <string name="stopTest">Stop Test</string>
+    <string name="testNotRunning">Throughput Test is not running</string>
+    <string name="testRunning">Throughput Test is in progress, please wait.</string>
+    <string name="testCompleted">Test is completed</string>
+    <string name="testCanceled">Test is canceled</string>
+    <string name="testFailed">Test is Failed</string>
+    <string name="testProgress">Test is in progress</string>
+    <string name="serverNotRes">ViaSat server is not responding</string>
+    
+    <string name="speedTest">Speed Test</string>
+    <string name="speedTestRunning">Speed Test is in progress, please wait.</string>
+    <string name="videoLoadTimer">Video Load Timer</string>
+    <string name="videoLoadTestRunning">Video Load Test is in progress, please wait.</string>
+    <string name="setAgent">Video cant play, please change Http-Agent, to play the video. </string>
+    
+    <string name="webload">Web Page Load timer</string>
+    <string name="select_server">Select Server</string>
+    <string name="pls_sel_server">Please select a server to perform test.</string>
+    <string name="avgValues">Average Values</string>
+    <string name="carreierViasat">Carrier : ViaSat</string>
+    <string name="carreier">Carrier : %1$s</string>
+    <string name="pingTime">Latency</string>
+    <string name="uploadSpeed">Upload Speed</string>
+    <string name="downloadSpeed">Download Speed</string>
+    <string name="webPageLoadTime">WebPage Avg. Time</string>
+    <string name="toatalWPCount">Total WebPages</string>
+    <string name="videoBuffertime">Video Init. Buffer Time</string>
+    <string name="bandWidth">Band Width</string>
+    <string name="time">Time</string>
+    <string name="jitter">Jitter</string>
+    <string name="RecvBytes">Recv. Bytes</string>
+    <string name="sendBytes">Send Bytes</string>
+    <string name="testDataCompar">Test Data Comparison</string>
+    
+    <string name="airtel">Dummy 1</string>
+    <string name="vodafone">Dummy 2</string>
+    <string name="viasat">ViaSat</string>
+    
+    <string name="defValues">0.00</string>
+    <string name="noData">No Data Available.</string>
+    
+    <string name="resultAlert">Best Service Provider: ViaSat</string>
+    <string name="router_info">Router Information</string>
+    <string name="router_name">Router Name</string>
+    <string name="gateway">Gateway</string>
+    <string name="BSSID">BSSID</string>
+    <string name="Link_Speed">Link Speed</string>
+    <string name="ISP_Name">ISP Name</string>
+    <string name="ISP_IP">ISP IP</string>
+    <string name="Country">Country</string>
+    
+    
+     <string name="totalTime">Expected Time Left: </string>
+	<string name="totalTest">Total Test Results: </string>
+</resources>

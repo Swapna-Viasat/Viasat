@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgcolor">#ff0000CD</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="sky_blue">#ff00BFFF</color>
+    <color name="light_sky_blue">#ff4169E1</color>
+    <color name="dark_blue">#ff1E90FF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="red">#FF0000</color>
+    <color name="platinum">#E5E4E2</color>
+    <color name="m_spring_green">#ff00FA9A</color>
+</resources>
